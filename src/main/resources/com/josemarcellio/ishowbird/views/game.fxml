@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane xmlns:fx="http://javafx.com/fxml" fx:controller="com.josemarcellio.ishowbird.controllers.GameController" fx:id="rootPane">
+    <Canvas fx:id="gameCanvas" width="800" height="600" />
+</Pane>
